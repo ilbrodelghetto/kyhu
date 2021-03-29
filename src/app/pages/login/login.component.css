@@ -1,0 +1,13 @@
+.login {
+    padding: 3em;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(59, 59, 59);
+    padding: 10px;
+}
+
+.profile-img-card {
+    width: 350px;
+    height: 480px;
+    margin: auto;
+}
